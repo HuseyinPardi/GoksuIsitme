@@ -58,11 +58,11 @@ const Header = () => {
     <>
       <AppBar
         position="fixed"
-        sx={{ backgroundColor: "#f0f4f8", color: "#333", px: 2 }}
+        sx={{ backgroundColor: "primary.dark", color: "#333", px: 2 }}
       >
         <Toolbar>
           {/* Logo */}
-          <Box sx={{ flexGrow: 1 }}>
+          <Box sx={{ flexGrow: 1, mt: 1 }}>
             <Logo />
           </Box>
 
@@ -84,7 +84,7 @@ const Header = () => {
                 component={Link}
                 to={item.path}
                 sx={{
-                  color: "#007bff",
+                  color: "#fff",
                   fontSize: "1rem",
                   fontWeight: "bold",
                   textTransform: "uppercase",
@@ -104,7 +104,7 @@ const Header = () => {
             {/* Hizmetler */}
             <Button
               sx={{
-                color: "#007bff",
+                color: "#fff",
                 fontSize: "1rem",
                 fontWeight: "bold",
                 textTransform: "uppercase",
@@ -155,7 +155,7 @@ const Header = () => {
             {/* Bilgi */}
             <Button
               sx={{
-                color: "#007bff",
+                color: "#fff",
                 fontSize: "1rem",
                 fontWeight: "bold",
                 textTransform: "uppercase",
