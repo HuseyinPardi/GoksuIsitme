@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Philips",
+    "description": "Yapay zeka destekli ses teknolojisi ve zengin bağlantı seçenekleriyle üstün işitme deneyimi sunar.",
+    "image": "/assets/hearing-aid1.webp"
+  },
+  {
+    "id": 2,
+    "name": "A&M",
+    "description": "Günlük kullanım için konforlu tasarımı ve uzun pil ömrüyle öne çıkan ekonomik bir seçenek.",
+    "image": "/assets/M.webp"
+  },
+  {
+    "id": 3,
+    "name": "Vista",
+    "description": "Gelişmiş ses işleme ve ergonomik tasarımıyla doğal işitme deneyimi sağlar.",
+    "image": "/assets/Vista-B-312-RIC.webp"
+  },
+  {
+    "id": 4,
+    "name": "Pediatrik Cihazlar",
+    "description": "Çocuklar için özel tasarlanmış, Oticon Xceed Play ve Opn Play modelleriyle güvenilir işitme çözümleri sunar.",
+    "image": "/assets/Oticon-Play-PX-miniRITE-R.webp"
+  }
+]

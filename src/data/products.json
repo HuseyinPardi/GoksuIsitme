@@ -1,0 +1,1725 @@
+[
+  {
+    "brandId": 1,
+    "products": [
+      {
+        "id": 101,
+        "name": "Şarj Edilebilir miniRITE",
+        "description": "Gelişmiş ses işleme teknolojisi ile net ses deneyimi.",
+        "image": "/assets/hearing-aid1.webp",
+        "features": [
+          {
+            "title": "Konuşmaları Daha Temiz ve Net Duyun",
+            "description": "HearLink 50, yapay zeka destekli teknolojisi sayesinde arka plan gürültüsünü hızlı bir şekilde ortadan kaldırarak, gürültülü ortamlarda konuşmaları daha kolay anlamanızı sağlar."
+          },
+          {
+            "title": "Kolay ve Eller Serbest Aramalar Yapın",
+            "description": "iPhone ve iPad'de eller serbest aramalar yapabilir, ayrıca LE Audio destekli Android™ cihazlar ve Windows bilgisayarlarda da kullanılabilir."
+          },
+          {
+            "title": "Bir Saatlik Şarjla Tüm Gün Kullanım",
+            "description": "HearLink 50, şarj edilebilir bir işitme cihazıdır ve bir saatlik şarjla tam gün kullanım sağlayabilirken, sadece 15 dakikalık şarjla dört saatlik kullanım sunar."
+          },
+          {
+            "title": "Gizli ve Hafif Tasarım",
+            "description": "Hem estetik hem de işlevsel olacak şekilde tasarlanan bu işitme cihazları, son derece hafiftir ve yalnızca 2,8 cm uzunluğunda ve 0,8 cm genişliğindedir."
+          },
+          {
+            "title": "Premium Akış Kalitesi",
+            "description": "En yeni Bluetooth® teknolojisi LE Audio ile sevdiklerinizle iletişimde kalın, en sevdiğiniz TV dizilerine ve müziklere kesintisiz olarak ulaşın. Tüm müzik, arama ve video seslerini, bu özel teknoloji sayesinde artık kesintisiz dinleyebilirsiniz."
+          },
+          {
+            "title": "Güvenle Bağlanın",
+            "description": "HearLink 50, dinleme amacınızı ve ihtiyaçlarınızı baş ve boyun hareketleriniz aracılığı ile anlayan hareket algılama teknolojisine sahiptir. Böylece, çevrenizde neler olup bittiğini kavrayabilir, güvenle bağlantı kurabilirsiniz."
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Şarj Edilebilir miniRITE T R",
+        "description": "Konforlu tasarım ve uzun pil ömrü sunar.",
+        "image": "/assets/sub-product.webp",
+        "features": [
+          {
+            "title": "Yapay Zeka Ses Teknolojisi",
+            "description": "Yapay zeka destekli ses teknolojisi şimdi yeni SoundProtect özelliği ile geçici gürültü, rüzgar ve temas gürültüsü dahil olmak üzere çeşitli istenmeyen veya rahatsız edici sesleri hızlı bir şekilde algılayabilir ve azaltabilir."
+          },
+          {
+            "title": "HiFi Müzik ve Konuşma Netleştirici",
+            "description": "Yeni SoundMap 2 Plus teknolojisi, gürültülü ortamlarda seslerin netliğini ve duyulabilirliğini artırır. Ayrıca Philips HearLink işitme cihazları, HiFi Müzik ile sadece konuşmaları değil, müzikteki çeşitli sesleri de işitebilmeyi sağlar. HiFi Müzik, ses seviyesini yükseltmek için müzik vuruşlarını güçlendirir."
+          },
+          {
+            "title": "Gürültü Azaltma",
+            "description": "Gürültü Kontrolü özelliği arka plan gürültüsünü azaltır, gürültülü ve kalabalık ortamlarda konuşmayı net ve kolay bir şekilde duymayı sağlar."
+          },
+          {
+            "title": "Feedback Yönetimi",
+            "description": "Feedback, işitme cihazlarında olduğu gibi bir mikrofon ve bir hoparlör birbirine yakın olduğunda ortaya çıkabilen tiz ıslık sesidir. Bu özellik ise ses kalitesini korumak için bu feedback riskini en aza indirir."
+          },
+          {
+            "title": "Hands-free İletişim",
+            "description": "Hands-free iletişim özelliğiyle sesleri doğrudan iPhone, iPod ve iPad'inizden Philips HearLink işitme cihazınıza aktarabilir ve sevdiklerinizle doğrudan konuşabilirsiniz. Çağrıları doğrudan iPhone'dan işitme cihazınıza bağlayabilirsiniz. iPhone veya iPad'inizdeki aramayı yanıtlamak için işitme cihazınızdaki düğmeye basın, ardından konuşun, aramaları sonlandırın veya reddedin. Arabadayken veya elleriniz doluyken tercih edebileceğiniz harika bir çözüm."
+          },
+          {
+            "title": "Bağlanılabilirlik",
+            "description": "Philips HearLink işitme cihazları Made for iPhone® özelliğine sahiptir ayrıca iPad Pro®, iPad Air®, iPad®, iPad® mini ve iPod® touch için uyumludur. İşitme cihazlarınızı bir aksesuar olmadan doğrudan akıllı telefonunuza veya başka bir cihaza bağlayabilirsiniz, böylece ses akışı yapabilir, telefon aramalarını yanıtlayabilir, cihaz ayarlarınızı yapabilir ve çok daha fazlasını yapabilirsiniz. Philips HearLink işitme cihazları Android cihazlarla da uyumludur. Yeni Philips HearLink 2 uygulaması ile Philips HearLink işitme cihazlarınızı kolayca ve gizlice kontrol edebilirsiniz. Akıllı telefonunuz uzaktan kumandanız olur"
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Fonsiyonel miniRITE T",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product2.webp",
+        "features": [
+          {
+            "title": "Yapay Zeka Ses Teknolojisi",
+            "description": "Yapay zeka destekli ses teknolojisi şimdi yeni SoundProtect özelliği ile geçici gürültü, rüzgar ve temas gürültüsü dahil olmak üzere çeşitli istenmeyen veya rahatsız edici sesleri hızlı bir şekilde algılayabilir ve azaltabilir."
+          },
+          {
+            "title": "HiFi Müzik ve Konuşma Netleştirici",
+            "description": "Yeni SoundMap 2 Plus teknolojisi, gürültülü ortamlarda seslerin netliğini ve duyulabilirliğini artırır. Ayrıca Philips HearLink işitme cihazları, HiFi Müzik ile sadece konuşmaları değil, müzikteki çeşitli sesleri de işitebilmeyi sağlar. HiFi Müzik, ses seviyesini yükseltmek için müzik vuruşlarını güçlendirir."
+          },
+          {
+            "title": "Gürültü Azaltma",
+            "description": "Gürültü Kontrolü özelliği arka plan gürültüsünü azaltır, gürültülü ve kalabalık ortamlarda konuşmayı net ve kolay bir şekilde duymayı sağlar."
+          },
+          {
+            "title": "Feedback Yönetimi",
+            "description": "Feedback, işitme cihazlarında olduğu gibi bir mikrofon ve bir hoparlör birbirine yakın olduğunda ortaya çıkabilen tiz ıslık sesidir. Bu özellik ise ses kalitesini korumak için bu feedback riskini en aza indirir."
+          },
+          {
+            "title": "Hands-free İletişim",
+            "description": "Hands-free iletişim özelliğiyle sesleri doğrudan iPhone, iPod ve iPad'inizden Philips HearLink işitme cihazınıza aktarabilir ve sevdiklerinizle doğrudan konuşabilirsiniz. Çağrıları doğrudan iPhone'dan işitme cihazınıza bağlayabilirsiniz. iPhone veya iPad'inizdeki aramayı yanıtlamak için işitme cihazınızdaki düğmeye basın, ardından konuşun, aramaları sonlandırın veya reddedin. Arabadayken veya elleriniz doluyken tercih edebileceğiniz harika bir çözüm."
+          },
+          {
+            "title": "Bağlanılabilirlik",
+            "description": "Philips HearLink işitme cihazları Made for iPhone® özelliğine sahiptir ayrıca iPad Pro®, iPad Air®, iPad®, iPad® mini ve iPod® touch için uyumludur. İşitme cihazlarınızı bir aksesuar olmadan doğrudan akıllı telefonunuza veya başka bir cihaza bağlayabilirsiniz, böylece ses akışı yapabilir, telefon aramalarını yanıtlayabilir, cihaz ayarlarınızı yapabilir ve çok daha fazlasını yapabilirsiniz. Philips HearLink işitme cihazları Android cihazlarla da uyumludur. Yeni Philips HearLink 2 uygulaması ile Philips HearLink işitme cihazlarınızı kolayca ve gizlice kontrol edebilirsiniz. Akıllı telefonunuz uzaktan kumandanız olur"
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "Dayanıklı Sarj Edilebilir miniBTE T R",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product3.webp",
+        "features": [
+          {
+            "title": "Yapay Zeka Ses Teknolojisi",
+            "description": "Yapay zeka destekli ses teknolojisi şimdi yeni SoundProtect özelliği ile geçici gürültü, rüzgar ve temas gürültüsü dahil olmak üzere çeşitli istenmeyen veya rahatsız edici sesleri hızlı bir şekilde algılayabilir ve azaltabilir."
+          },
+          {
+            "title": "HiFi Müzik ve Konuşma Netleştirici",
+            "description": "Yeni SoundMap 2 Plus teknolojisi, gürültülü ortamlarda seslerin netliğini ve duyulabilirliğini artırır. Ayrıca Philips HearLink işitme cihazları, HiFi Müzik ile sadece konuşmaları değil, müzikteki çeşitli sesleri de işitebilmeyi sağlar. HiFi Müzik, ses seviyesini yükseltmek için müzik vuruşlarını güçlendirir."
+          },
+          {
+            "title": "Gürültü Azaltma",
+            "description": "Gürültü Kontrolü özelliği arka plan gürültüsünü azaltır, gürültülü ve kalabalık ortamlarda konuşmayı net ve kolay bir şekilde duymayı sağlar."
+          },
+          {
+            "title": "Feedback Yönetimi",
+            "description": "Feedback, işitme cihazlarında olduğu gibi bir mikrofon ve bir hoparlör birbirine yakın olduğunda ortaya çıkabilen tiz ıslık sesidir. Bu özellik ise ses kalitesini korumak için bu feedback riskini en aza indirir."
+          },
+          {
+            "title": "Hands-free İletişim",
+            "description": "Hands-free iletişim özelliğiyle sesleri doğrudan iPhone, iPod ve iPad'inizden Philips HearLink işitme cihazınıza aktarabilir ve sevdiklerinizle doğrudan konuşabilirsiniz. Çağrıları doğrudan iPhone'dan işitme cihazınıza bağlayabilirsiniz. iPhone veya iPad'inizdeki aramayı yanıtlamak için işitme cihazınızdaki düğmeye basın, ardından konuşun, aramaları sonlandırın veya reddedin. Arabadayken veya elleriniz doluyken tercih edebileceğiniz harika bir çözüm."
+          },
+          {
+            "title": "Bağlanılabilirlik",
+            "description": "Philips HearLink işitme cihazları Made for iPhone® özelliğine sahiptir ayrıca iPad Pro®, iPad Air®, iPad®, iPad® mini ve iPod® touch için uyumludur. İşitme cihazlarınızı bir aksesuar olmadan doğrudan akıllı telefonunuza veya başka bir cihaza bağlayabilirsiniz, böylece ses akışı yapabilir, telefon aramalarını yanıtlayabilir, cihaz ayarlarınızı yapabilir ve çok daha fazlasını yapabilirsiniz. Philips HearLink işitme cihazları Android cihazlarla da uyumludur. Yeni Philips HearLink 2 uygulaması ile Philips HearLink işitme cihazlarınızı kolayca ve gizlice kontrol edebilirsiniz. Akıllı telefonunuz uzaktan kumandanız olur"
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "name": "Dayanıklı miniBTE",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product4.webp",
+        "features": [
+          {
+            "title": "Yapay Zeka Ses Teknolojisi",
+            "description": "Yapay zeka destekli ses teknolojisi şimdi yeni SoundProtect özelliği ile geçici gürültü, rüzgar ve temas gürültüsü dahil olmak üzere çeşitli istenmeyen veya rahatsız edici sesleri hızlı bir şekilde algılayabilir ve azaltabilir."
+          },
+          {
+            "title": "HiFi Müzik ve Konuşma Netleştirici",
+            "description": "Yeni SoundMap 2 Plus teknolojisi, gürültülü ortamlarda seslerin netliğini ve duyulabilirliğini artırır. Ayrıca Philips HearLink işitme cihazları, HiFi Müzik ile sadece konuşmaları değil, müzikteki çeşitli sesleri de işitebilmeyi sağlar. HiFi Müzik, ses seviyesini yükseltmek için müzik vuruşlarını güçlendirir."
+          },
+          {
+            "title": "Gürültü Azaltma",
+            "description": "Gürültü Kontrolü özelliği arka plan gürültüsünü azaltır, gürültülü ve kalabalık ortamlarda konuşmayı net ve kolay bir şekilde duymayı sağlar."
+          },
+          {
+            "title": "Feedback Yönetimi",
+            "description": "Feedback, işitme cihazlarında olduğu gibi bir mikrofon ve bir hoparlör birbirine yakın olduğunda ortaya çıkabilen tiz ıslık sesidir. Bu özellik ise ses kalitesini korumak için bu feedback riskini en aza indirir."
+          },
+          {
+            "title": "Hands-free İletişim",
+            "description": "Hands-free iletişim özelliğiyle sesleri doğrudan iPhone, iPod ve iPad'inizden Philips HearLink işitme cihazınıza aktarabilir ve sevdiklerinizle doğrudan konuşabilirsiniz. Çağrıları doğrudan iPhone'dan işitme cihazınıza bağlayabilirsiniz. iPhone veya iPad'inizdeki aramayı yanıtlamak için işitme cihazınızdaki düğmeye basın, ardından konuşun, aramaları sonlandırın veya reddedin. Arabadayken veya elleriniz doluyken tercih edebileceğiniz harika bir çözüm."
+          },
+          {
+            "title": "Bağlanılabilirlik",
+            "description": "Philips HearLink işitme cihazları Made for iPhone® özelliğine sahiptir ayrıca iPad Pro®, iPad Air®, iPad®, iPad® mini ve iPod® touch için uyumludur. İşitme cihazlarınızı bir aksesuar olmadan doğrudan akıllı telefonunuza veya başka bir cihaza bağlayabilirsiniz, böylece ses akışı yapabilir, telefon aramalarını yanıtlayabilir, cihaz ayarlarınızı yapabilir ve çok daha fazlasını yapabilirsiniz. Philips HearLink işitme cihazları Android cihazlarla da uyumludur. Yeni Philips HearLink 2 uygulaması ile Philips HearLink işitme cihazlarınızı kolayca ve gizlice kontrol edebilirsiniz. Akıllı telefonunuz uzaktan kumandanız olur"
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "name": "Güçlü BTE PP",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product5.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofon ve gürültü tahmin özelliği sayesinde, gürültülü ortamlarda bile konuşmaları daha net duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "SoundMap Geri Bildirim Azaltıcı",
+            "description": "Geri bildirim dedektörü ile donatılmıştır, böylece istenmeyen ıslık seslerini en aza indirir."
+          },
+          {
+            "title": "2,4 GHz Kablosuz Teknolojisi",
+            "description": "iPhone®, iPod®, iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ayarlar otomatik olarak diğer cihaza da uygulanır, böylece kullanım kolaylığı sunar."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Yüksek seslerin daha net olmasını sağlar, böylece geniş bir ses yelpazesini duyabilirsiniz."
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "Çok Güçlü BTE SP",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product6.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofon ve gürültü tahmin özelliği sayesinde, gürültülü ortamlarda bile konuşmaları daha net duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "SoundMap Geri Bildirim Azaltıcı",
+            "description": "Geri bildirim dedektörü ile donatılmıştır, böylece istenmeyen ıslık seslerini en aza indirir."
+          },
+          {
+            "title": "2,4 GHz Kablosuz Teknolojisi",
+            "description": "iPhone®, iPod®, iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ayarlar otomatik olarak diğer cihaza da uygulanır, böylece kullanım kolaylığı sunar."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Yüksek seslerin daha net olmasını sağlar, böylece geniş bir ses yelpazesini duyabilirsiniz."
+          }
+        ]
+      },
+
+      {
+        "id": 108,
+        "name": "Aşırı Güçlü BTE UP",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product7.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofon ve gürültü tahmin özelliği sayesinde, gürültülü ortamlarda bile konuşmaları daha net duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "SoundMap Geri Bildirim Azaltıcı",
+            "description": "Geri bildirim dedektörü ile donatılmıştır, böylece istenmeyen ıslık seslerini en aza indirir."
+          },
+          {
+            "title": "2,4 GHz Kablosuz Teknolojisi",
+            "description": "iPhone®, iPod®, iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ayarlar otomatik olarak diğer cihaza da uygulanır, böylece kullanım kolaylığı sunar."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Yüksek seslerin daha net olmasını sağlar, böylece geniş bir ses yelpazesini duyabilirsiniz."
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Ekstra Küçük IIC",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product8.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofon ve gürültü tahmin özelliği sayesinde, gürültülü ortamlarda konuşmaları daha net duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Daha yüksek giriş sinyallerinin işlenmesine olanak tanıyarak, yüksek seslerin daha net olmasını sağlar."
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Gizli görünümde CIC",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product9.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Yönlülük ve gürültü azaltma özellikleriyle, en gürültülü sosyal ortamlarda bile konuşma seslerini daha net duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ses seviyesi ayarı, gürültü yönetimi ve program değişiklikleri otomatik olarak diğer cihaza da uygulanır."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Daha yüksek giriş sinyallerinin işlenmesine olanak tanıyarak, yüksek seslerin daha net olmasını sağlar."
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "name": "Dönüştürülebilir ITC",
+        "description": "Hassas gürültü engelleme teknolojisi ile geliştirilmiş model.",
+        "image": "/assets/sub-product10.webp",
+        "features": [
+          {
+            "title": "Yapay Zeka (AI) Ses Teknolojisi",
+            "description": "Gürültülü ortamlarda konuşmaları daha net hale getirmek için yapay zeka ile desteklenmiş ses teknolojisi kullanır."
+          },
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofon ve gürültü tahmin özelliği ile sinyali temizleyerek, en gürültülü sosyal ortamlarda bile konuşma seslerine daha iyi erişim sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses detaylarının duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini korur."
+          },
+          {
+            "title": "SoundMap Feedback Yönetimi",
+            "description": "Feedback dedektörleri sayesinde istenmeyen geri bildirim seslerini en aza indirir."
+          },
+          {
+            "title": "2.4 GHz Kablosuz Teknoloji",
+            "description": "Android™ akıllı telefonlar, iPhone®, iPod touch® ve iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar."
+          },
+          {
+            "title": "Çift Taraflı Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ses seviyesi ayarı, gürültü yönetimi ve program değişiklikleri otomatik olarak diğer cihaza da uygulanır."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Daha yüksek şiddetteki seslerin işlenmesine olanak tanıyarak, yüksek seslerin daha net algılanmasını sağlar."
+          },
+          {
+            "title": "Alçak Frekans Artırma",
+            "description": "TV'ler ve cep telefonları gibi kablosuz cihazlardan gelen düşük frekanslı sinyalleri artırarak daha iyi ses kalitesi sunar."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brandId": 2,
+    "products": [
+      {
+        "id": 201,
+        "name": "XTM Custom P12",
+        "description": "Kristal netliğinde ses sunan, kulak kanalına tam oturan ileri teknoloji ürünü işitme cihazı.",
+        "image": "/assets/Custom.webp",
+        "features": [
+          {
+            "title": "Özelleştirilebilir Tasarım",
+            "description": "Kullanıcının kulak kanalına tam uyum sağlayacak şekilde kişiye özel üretilir."
+          },
+          {
+            "title": "12 Sıkıştırma Kanalı Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol sağlayarak, çok kanallı işitme cihazlarıyla karşılaştırıldığında ses kalitesini ve duyulabilirliği artırır."
+          },
+          {
+            "title": "Yönlü iLock",
+            "description": "Otomatik ve uyarlanabilir yönsel mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek, gürültülü ortamlarda daha iyi işitme sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek tutarken, uzaktaki sesleri arka planda tutarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Kablosuz İşlevsellik",
+            "description": "65 dB'e kadar kablosuz işlevsellik sağlayarak, kullanıcıların esnekliğini artırır."
+          },
+          {
+            "title": "Binaural Sinyal İşleme",
+            "description": "P12 ile binaural sinyal işleme, gürültülü ortamlarda daha kolay işitme sağlar."
+          },
+          {
+            "title": "Çeşitli Form Faktörleri",
+            "description": "CIC, ITC ve ITE form faktörlerinde mevcut olup, kullanıcının tercihine göre seçenekler sunar."
+          }
+        ]
+      },
+      {
+        "id": 202,
+        "name": "XTM Custom P8",
+        "description": "Kulağınıza özel olarak tasarlanmış, yüksek performanslı ve güvenilir işitme cihazı.",
+        "image": "/assets/Custom.webp",
+        "features": [
+          {
+            "title": "Kişiye Özel Tasarım",
+            "description": "Kulağınıza tam uyum sağlayacak şekilde özel olarak üretilmiştir, böylece hem gizlilik hem de performans sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek tutarken, uzaktaki sesleri arka planda tutarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Bant Genişliği Sıkıştırma, Akıllı Otomatik Alışma, Veri Kaydı, 16 Sinyal İşleme Kanalı, 4 işitme programı."
+          }
+        ]
+      },
+      {
+        "id": 203,
+        "name": "XTM Custom P6",
+        "description": "Kulağınıza özel olarak tasarlanmış, yüksek performanslı ve güvenilir işitme cihazı.",
+        "image": "/assets/Custom.webp",
+        "features": [
+          {
+            "title": "Kişiye Özel Tasarım",
+            "description": "Kulağınıza tam uyum sağlayacak şekilde özel olarak üretilmiştir, böylece hem gizlilik hem de performans sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tamamen Dijital WDRC Amplifikatörü",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonlarının performansını artırarak, akustik parazitleri azaltır ve daha net bir telefon deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Veri Kaydı, 12 Sinyal İşleme Kanalı, 4 İşitme Programı."
+          }
+        ]
+      },
+
+      {
+        "id": 204,
+        "name": "XTM IF CIC P12",
+        "description": "Özel üretim gerektirmeyen, anında takılabilen ve maksimum gizlilik sunan işitme cihazı.",
+        "image": "/assets/IF_CIC.webp",
+        "features": [
+          {
+            "title": "Anında Takılabilen Tasarım",
+            "description": "Doğal işitme kanalı geometrisini takip eden IF kasası, neredeyse her kulağa uyum sağlar ve özel üretim gerektirmeden özel CIC'ler kadar gizlidir."
+          },
+          {
+            "title": "12 Sıkıştırma Kanalı Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol sağlayarak, ses kalitesini ve duyulabilirliği artırır."
+          },
+          {
+            "title": "Yönlü iLock",
+            "description": "Otomatik ve uyarlanabilir yönsel mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek, gürültülü ortamlarda daha iyi işitme sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek tutarken, uzaktaki sesleri arka planda tutarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "XTM IF CIC P8",
+        "description": "Neredeyse görünmez, anında takılabilen ve yüksek performanslı işitme cihazı.",
+        "image": "/assets/IF_CIC.webp",
+        "features": [
+          {
+            "title": "Anında Takılabilen Tasarım",
+            "description": "Esnek Click Sleeves ile farklı boyutlarda sunulan bu cihazlar, kulağa rahat ve güvenli bir şekilde oturur, özel üretim gerektirmez ve ilk seanstan sonra hemen kullanılabilir."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek tutarken, uzaktaki sesleri arka planda tutarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Bant Genişliği Sıkıştırma, Akıllı Otomatik Alışma, Veri Kaydı, 16 Sinyal İşleme Kanalı, 4 işitme programı."
+          }
+        ]
+      },
+      {
+        "id": 206,
+        "name": "XTM IF CIC P6",
+        "description": "Neredeyse görünmez, anında takılabilen ve yüksek performanslı işitme cihazı.",
+        "image": "/assets/IF_CIC.webp",
+        "features": [
+          {
+            "title": "Anında Takılabilen Tasarım",
+            "description": "Esnek Click Sleeves ile farklı boyutlarda sunulan bu cihazlar, kulağa rahat ve güvenli bir şekilde oturur, özel üretim gerektirmez ve ilk seanstan sonra hemen kullanılabilir."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tamamen Dijital WDRC Amplifikatörü",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonlarının performansını artırarak, akustik parazitleri azaltır ve daha net bir telefon deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Veri Kaydı, 12 Sinyal İşleme Kanalı, 4 İşitme Programı."
+          }
+        ]
+      },
+      {
+        "id": 207,
+        "name": "XTM S P8",
+        "description": "Küçük boyutu ve üstün ses performansıyla dikkat çeken, kullanımı kolay bir BTE işitme cihazı.",
+        "image": "/assets/S.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü ortamlarda konuşmayı daha iyi anlamak için otomatik yönlü mikrofonlar sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek tutarken, uzaktaki sesleri arka planda tutarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Bant Genişliği Sıkıştırma, Akıllı Otomatik Alışma, Veri Kaydı, 16 Sinyal İşleme Kanalı, 4 işitme programı."
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "XTM S P6",
+        "description": "Küçük boyutu ve üstün ses performansıyla dikkat çeken, kullanımı kolay bir BTE işitme cihazı.",
+        "image": "/assets/S.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü ortamlarda konuşmayı daha iyi anlamak için otomatik yönlü mikrofonlar sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tamamen Dijital WDRC Amplifikatörü",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonlarının performansını artırarak, akustik parazitleri azaltır ve daha net bir telefon deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Veri Kaydı, 12 Sinyal İşleme Kanalı, 4 İşitme Programı."
+          }
+        ]
+      },
+
+      {
+        "id": 209,
+        "name": "XTM IF ITC P6",
+        "description": "Anında takılabilen, kişiye özel üretim gerektirmeyen ve yüksek performanslı bir kanal içi (ITC) işitme cihazı.",
+        "image": "/assets/IF_ITC.webp",
+        "features": [
+          {
+            "title": "Anında Takılabilen Tasarım",
+            "description": "Farklı Click Sleeves boyutları sayesinde neredeyse her kulağa uyum sağlar, özel üretim gerektirmeden rahat ve güvenli bir kullanım sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, daha iyi konuşma netliği ve daha az istenmeyen parazit sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici, kulaklarda rahatsız edici ıslık seslerinin önlenmesine yardımcı olarak daha konforlu bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Ayar 48 Kanal",
+            "description": "İşitme cihazları, ilk ayar sırasında kazancı 48 kanalda hesaplayarak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tamamen Dijital WDRC Amplifikatörü",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonlarının performansını artırarak, akustik parazitleri azaltır ve daha net bir telefon deneyimi sunar."
+          },
+          {
+            "title": "Diğer Özellikler",
+            "description": "Veri Kaydı, 12 Sinyal İşleme Kanalı, 4 İşitme Programı."
+          }
+        ]
+      },
+      {
+        "id": 210,
+        "name": "XTM RIC P12",
+        "description": "Küçük ve fark edilmeyen tasarımıyla esnek ve pratik bir işitme sistemi. Farklı alıcı tipleri sayesinde geniş bir işitme kaybı yelpazesinde kullanılabilir.",
+        "image": "/assets/RIC.webp",
+        "features": [
+          {
+            "title": "12 Kanal Sıkıştırma Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol için geliştirilmiş 12 kanal sıkıştırma teknolojisi."
+          },
+          {
+            "title": "Directional iLock",
+            "description": "Otomatik ve uyarlanabilir yönlü mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek arka plandan gelen sesleri daha iyi bastırır."
+          },
+          {
+            "title": "XPhone",
+            "description": "Akustik telefon görüşmeleri için geliştirilmiş bir özellik olup, telefon sinyalini her iki kulağa da ileterek daha iyi anlama sağlar."
+          },
+          {
+            "title": "Ses Konumlandırıcı",
+            "description": "İnsan kulağının özelliklerini taklit ederek, sesin nereden geldiğini daha iyi algılamayı sağlar. Düşük frekanslar her yönden, yüksek frekanslar ise hafif yönlü olarak işlenir."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici sayesinde, kullanıcılar rahatsız edici ıslık seslerinden kaçınarak daha konforlu bir dinleme deneyimi yaşar."
+          }
+        ]
+      },
+      {
+        "id": 211,
+        "name": "XTM RIC P8",
+        "description": "Kulağınızın arkasına gizlenen şık ve küçük tasarımıyla yüksek işitme performansı sunar. Küçük boyut ile yüksek performans arasında mükemmel bir denge sağlar.",
+        "image": "/assets/RIC.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "Bant Genişliği Sıkıştırması",
+            "description": "Yüksek frekanslı sesleri işitme kaybına uygun frekans aralıklarına taşır."
+          },
+          {
+            "title": "Akıllı Otomatik Alışma",
+            "description": "Kullanıcının işitme cihazına alışmasını kolaylaştırır ve veri kaydı ile kullanım alışkanlıklarını izler."
+          }
+        ]
+      },
+      {
+        "id": 212,
+        "name": "XTM M P12",
+        "description": "Farklı işitme kaybı derecelerine uygun, açık ve kapalı uygulamalar için tasarlanmış, esnek ve pratik bir işitme cihazı.",
+        "image": "/assets/M.webp",
+        "features": [
+          {
+            "title": "12 Kanal Sıkıştırma Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol için geliştirilmiş 12 kanal sıkıştırma teknolojisi."
+          },
+          {
+            "title": "Directional iLock",
+            "description": "Otomatik ve uyarlanabilir yönlü mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek arka plandan gelen sesleri daha iyi bastırır."
+          },
+          {
+            "title": "XPhone",
+            "description": "Akustik telefon görüşmeleri için geliştirilmiş bir özellik olup, telefon sinyalini her iki kulağa da ileterek daha iyi anlama sağlar."
+          },
+          {
+            "title": "Ses Konumlandırıcı",
+            "description": "İnsan kulağının özelliklerini taklit ederek, sesin nereden geldiğini daha iyi algılamayı sağlar. Düşük frekanslar her yönden, yüksek frekanslar ise hafif yönlü olarak işlenir."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici sayesinde, kullanıcılar rahatsız edici ıslık seslerinden kaçınarak daha konforlu bir dinleme deneyimi yaşar."
+          }
+        ]
+      },
+      {
+        "id": 213,
+        "name": "XTM M P8",
+        "description": "Her türlü kulağa anatomik sınırlama olmaksızın uyum sağlayan, güvenilir ve güçlü bir işitme cihazı. Üzerindeki rocker anahtarı sayesinde ses seviyesini değiştirme ve işitme programları arasında geçiş yapma imkanı sunar.",
+        "image": "/assets/M.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "Bant Genişliği Sıkıştırması",
+            "description": "Yüksek frekanslı sesleri işitme kaybına uygun frekans aralıklarına taşır."
+          },
+          {
+            "title": "Akıllı Otomatik Alışma",
+            "description": "Kullanıcının işitme cihazına alışmasını kolaylaştırır ve veri kaydı ile kullanım alışkanlıklarını izler."
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "name": "XTM M P6",
+        "description": "Anatomik sınırlama olmaksızın her kulağa uyum sağlayan, güvenilir ve güçlü bir işitme cihazı. Üzerindeki rocker anahtarı sayesinde ses seviyesini değiştirme ve işitme programları arasında geçiş yapma imkanı sunar.",
+        "image": "/assets/M.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tam Dijital WDRC Amplifikatör",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonları, bazı işitme cihazlarının performansını etkileyebilir. A&M işitme cihazları, telefon kullanımında oluşabilecek akustik paraziti azaltmaya yardımcı olan korumalı bir mikrofon ile donatılmış dijital işlemci kullanır."
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "name": "XTM P P12",
+        "description": "Orta ila ileri derecede işitme kaybı için tasarlanmış, esnek ve güçlü bir işitme cihazı. Kullanımı kolaylaştıran rocker anahtarı ile donatılmıştır.",
+        "image": "/assets/P.webp",
+        "features": [
+          {
+            "title": "12 Kanal Sıkıştırma Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol için geliştirilmiş 12 kanal sıkıştırma teknolojisi."
+          },
+          {
+            "title": "Directional iLock",
+            "description": "Otomatik ve uyarlanabilir yönlü mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek arka plandan gelen sesleri daha iyi bastırır."
+          },
+          {
+            "title": "XPhone",
+            "description": "Akustik telefon görüşmeleri için geliştirilmiş bir özellik olup, telefon sinyalini her iki kulağa da ileterek daha iyi anlama sağlar."
+          },
+          {
+            "title": "Ses Konumlandırıcı",
+            "description": "İnsan kulağının özelliklerini taklit ederek, sesin nereden geldiğini daha iyi algılamayı sağlar. Düşük frekanslar her yönden, yüksek frekanslar ise hafif yönlü olarak işlenir."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici sayesinde, kullanıcılar rahatsız edici ıslık seslerinden kaçınarak daha konforlu bir dinleme deneyimi yaşar."
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "name": "XTM P P8",
+        "description": "Geniş bir işitme kaybı yelpazesini kapsayan, güçlü ve çok yönlü bir işitme cihazı. Sağlam tasarımıyla her durumda güvenilir performans sunar.",
+        "image": "/assets/P.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "Bant Genişliği Sıkıştırması",
+            "description": "Yüksek frekanslı sesleri işitme kaybına uygun frekans aralıklarına taşır."
+          },
+          {
+            "title": "Akıllı Otomatik Alışma",
+            "description": "Kullanıcının işitme cihazına alışmasını kolaylaştırır ve veri kaydı ile kullanım alışkanlıklarını izler."
+          }
+        ]
+      },
+      {
+        "id": 217,
+        "name": "XTM P P6",
+        "description": "Geniş bir işitme kaybı yelpazesini kapsayan, güçlü ve çok yönlü bir işitme cihazı. Sağlam tasarımıyla her durumda güvenilir performans sunar.",
+        "image": "/assets/P.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tam Dijital WDRC Amplifikatör",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonları, bazı işitme cihazlarının performansını etkileyebilir. A&M işitme cihazları, telefon kullanımında oluşabilecek akustik paraziti azaltmaya yardımcı olan korumalı bir mikrofon ile donatılmış dijital işlemci kullanır."
+          }
+        ]
+      },
+      {
+        "id": 218,
+        "name": "XTM XP P12",
+        "description": "Yüksek güç performansı sunan XTM XP P12, ileri ve çok ileri derecede işitme kaybı olan kullanıcılar için tasarlanmıştır. Düşük güç tüketimiyle uzun ömürlü pil kullanımı sağlar ve telefon bobini ile çeşitli aksesuarlar sayesinde kullanıcılara esneklik sunar.",
+        "image": "/assets/XP.webp",
+        "features": [
+          {
+            "title": "12 Kanal Sıkıştırma Teknolojisi",
+            "description": "Yüksek çözünürlüklü ses ve daha hassas kontrol için geliştirilmiş 12 kanal sıkıştırma teknolojisi."
+          },
+          {
+            "title": "Directional iLock",
+            "description": "Otomatik ve uyarlanabilir yönlü mikrofonu, yönlü gürültü azaltma sistemiyle birleştirerek arka plandan gelen sesleri daha iyi bastırır."
+          },
+          {
+            "title": "XPhone",
+            "description": "Akustik telefon görüşmeleri için geliştirilmiş bir özellik olup, telefon sinyalini her iki kulağa da ileterek daha iyi anlama sağlar."
+          },
+          {
+            "title": "Ses Konumlandırıcı",
+            "description": "İnsan kulağının özelliklerini taklit ederek, sesin nereden geldiğini daha iyi algılamayı sağlar. Düşük frekanslar her yönden, yüksek frekanslar ise hafif yönlü olarak işlenir."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Hızlı geri bildirim önleyici sayesinde, kullanıcılar rahatsız edici ıslık seslerinden kaçınarak daha konforlu bir dinleme deneyimi yaşar."
+          }
+        ]
+      },
+      {
+        "id": 219,
+        "name": "XTM XP P8",
+        "description": "XTM XP P8, ileri ve çok ileri derecede işitme kaybı yaşayan kullanıcılar için ideal bir çözümdür. Daha iyi konuşma anlama, ses kalitesi ve kullanım konforu sunar. Geri bildirim önleme ve gürültü yönetimi gibi gelişmiş teknolojilerle donatılmıştır, böylece kullanıcıların dünyalarıyla bağlantıda kalmaları için gerekli işlevleri ve amplifikasyonu sağlar.",
+        "image": "/assets/XP.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Voice Ranger",
+            "description": "Hedef konuşmacının sesini daha yüksek yaparken, arka plandaki uzak sesleri koruyarak daha kolay bir dinleme deneyimi sunar."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Kablosuz Senkronizasyon",
+            "description": "İşitme cihazları arasındaki kablosuz senkronizasyon, konuşma partnerinizi anlamanızı kolaylaştırır."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "Bant Genişliği Sıkıştırması",
+            "description": "Yüksek frekanslı sesleri işitme kaybına uygun frekans aralıklarına taşır."
+          },
+          {
+            "title": "Akıllı Otomatik Alışma",
+            "description": "Kullanıcının işitme cihazına alışmasını kolaylaştırır ve veri kaydı ile kullanım alışkanlıklarını izler."
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "name": "XTM XP P6",
+        "description": "XTM XP P6, ileri ve çok ileri derecede işitme kaybı yaşayan kullanıcılar için ideal bir çözümdür. Gelişmiş teknolojisi sayesinde daha iyi konuşma anlama, üstün ses kalitesi ve konforlu bir kullanım deneyimi sunar. Geri bildirim önleme ve gürültü yönetimi gibi özelliklerle donatılmıştır, böylece kullanıcıların dünyalarıyla bağlantıda kalmaları için gerekli işlevleri ve amplifikasyonu sağlar.",
+        "image": "/assets/XP.webp",
+        "features": [
+          {
+            "title": "Otomatik Yönlü Mikrofonlar",
+            "description": "Zorlu ve gürültülü dinleme ortamlarında konuşmayı anlamada yüksek talebi olan kullanıcılar için önerilir. Otomatik yönlü mikrofonlar, konuşmayı gürültüden ayırt etmeniz gereken zor durumlarda iyileştirmeler sunar."
+          },
+          {
+            "title": "Gürültü Yönetimi",
+            "description": "Arka plan gürültüsünü önemli ölçüde azaltarak, kullanıcının daha iyi konuşma netliği ve daha az istenmeyen etkileşim yaşamasını sağlar."
+          },
+          {
+            "title": "Geri Bildirim Önleyici",
+            "description": "Kullanıcıların daha rahat bir dinleme deneyimi yaşamasını sağlar ve rahatsız edici ıslık seslerini önlemeye yardımcı olur."
+          },
+          {
+            "title": "İlk Uyumda 48 Kanal",
+            "description": "İlk uyum sırasında 48 kanalda kazanç hesaplaması yaparak, işitme eşiklerine göre daha doğru bir yoğunluk sağlar."
+          },
+          {
+            "title": "Tam Dijital WDRC Amplifikatör",
+            "description": "Geniş dinamik aralık sıkıştırması (WDRC), yumuşak seslerin yüksekliğini otomatik olarak artırırken, yüksek sesler için minimum amplifikasyon sağlar."
+          },
+          {
+            "title": "Telefon Uyumluluğu",
+            "description": "Kablosuz ve cep telefonları, bazı işitme cihazlarının performansını etkileyebilir. A&M işitme cihazları, telefon kullanımında oluşabilecek akustik paraziti azaltmaya yardımcı olan korumalı bir mikrofon ile donatılmış dijital işlemci kullanır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brandId": 3,
+    "products": [
+      {
+        "id": 301,
+        "name": "Vista B 312 RIC",
+        "description": "Minimalist ve güçlü tasarımıyla, doğrudan Bluetooth bağlantısı sunan ve 312 numara pille çalışan kompakt bir RIC işitme cihazı.",
+        "image": "/assets/Vista-B-312-RIC.webp",
+        "features": [
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Kompakt ve Estetik Tasarım",
+            "description": "Küçük ve zarif yapısıyla kulağınızda neredeyse fark edilmez, estetik kaygıları minimize eder."
+          },
+          {
+            "title": "312 Numara Tek Kullanımlık Pil",
+            "description": "Kolayca bulunabilen 312 numara pillerle çalışır, böylece pil değiştirme işlemleri pratik ve hızlıdır."
+          },
+          {
+            "title": "Gelişmiş Gürültü Azaltma",
+            "description": "Arka plan gürültüsünü azaltarak, konuşmaları daha net ve anlaşılır hale getirir."
+          },
+          {
+            "title": "Uyarlanabilir Yönlü Mikrofonlar",
+            "description": "Sesin geldiği yöne odaklanarak, özellikle kalabalık ortamlarda daha iyi bir dinleme deneyimi sağlar."
+          },
+          {
+            "title": "Feedback Önleme Sistemi",
+            "description": "Rahatsız edici ıslık ve geri bildirim seslerini otomatik olarak engeller, konforlu bir kullanım sunar."
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Vista V-RS",
+        "description": "Doğrudan Bluetooth bağlantısına sahip, şarj edilebilir lityum iyon teknolojisi ile tüm gün kullanım imkanı sunan işitme cihazı.",
+        "image": "/assets/Vista-V-RS.webp",
+        "features": [
+          {
+            "title": "Şarj Edilebilir Lityum İyon Pil",
+            "description": "Güvenilir lityum iyon teknolojisi sayesinde, tüm gün boyunca kesintisiz duyum sağlar ve hızlı şarj imkanı sunar."
+          },
+          {
+            "title": "Otomatik Açılma/Kapanma",
+            "description": "Şarj cihazından çıkarıldığında otomatik olarak açılır ve şarj cihazına takıldığında otomatik olarak kapanır, böylece kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Hızlı Şarj Özelliği",
+            "description": "Kısa sürede şarj olarak, uzun süreli kullanım imkanı sağlar."
+          },
+          {
+            "title": "Kullanım Kolaylığı",
+            "description": "Otomatik açılma ve kapanma özellikleriyle, kullanıcı dostu bir deneyim sunar."
+          }
+        ]
+      },
+      {
+        "id": 303,
+        "name": "Vista V-UP",
+        "description": "Güçlü performansı ve doğrudan bağlantı özellikleriyle, ileri derecede işitme kaybı yaşayan kullanıcılar için tasarlanmış bir işitme cihazıdır.",
+        "image": "/assets/Vista-V-UP.webp",
+        "features": [
+          {
+            "title": "Ultra Güçlü Ses Amplifikasyonu",
+            "description": "İleri ve çok ileri derecede işitme kaybı olan kullanıcılar için yüksek kazançlı ses amplifikasyonu sağlar."
+          },
+          {
+            "title": "Doğrudan Bağlantı Özelliği",
+            "description": "Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "675 Numara Tek Kullanımlık Pil",
+            "description": "Uzun ömürlü 675 numara pillerle çalışır, böylece pil değiştirme sıklığını azaltır."
+          },
+          {
+            "title": "Dayanıklı ve Ergonomik Tasarım",
+            "description": "Sağlam yapısı ve ergonomik tasarımıyla uzun süreli kullanımda konfor sağlar."
+          },
+          {
+            "title": "Gelişmiş Gürültü Azaltma Teknolojisi",
+            "description": "Arka plan gürültüsünü azaltarak, konuşmaları daha net ve anlaşılır hale getirir."
+          },
+          {
+            "title": "Uyarlanabilir Yönlü Mikrofonlar",
+            "description": "Sesin geldiği yöne odaklanarak, özellikle kalabalık ortamlarda daha iyi bir dinleme deneyimi sağlar."
+          }
+        ]
+      },
+      {
+        "id": 304,
+        "name": "Vista V-312",
+        "description": "Kompakt tasarımı ve doğrudan Bluetooth bağlantısı ile 312 numara tek kullanımlık pil ile çalışan RIC (Receiver-in-Canal) işitme cihazı.",
+        "image": "/assets/Vista-V-312.webp",
+        "features": [
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Kompakt ve Estetik Tasarım",
+            "description": "Küçük ve zarif yapısıyla kulağınızda neredeyse fark edilmez, estetik kaygıları minimize eder."
+          },
+          {
+            "title": "312 Numara Tek Kullanımlık Pil",
+            "description": "Kolayca bulunabilen 312 numara pillerle çalışır, böylece pil değiştirme işlemleri pratik ve hızlıdır."
+          },
+          {
+            "title": "Gelişmiş Gürültü Azaltma",
+            "description": "Arka plan gürültüsünü azaltarak, konuşmaları daha net ve anlaşılır hale getirir."
+          },
+          {
+            "title": "Uyarlanabilir Yönlü Mikrofonlar",
+            "description": "Sesin geldiği yöne odaklanarak, özellikle kalabalık ortamlarda daha iyi bir dinleme deneyimi sağlar."
+          },
+          {
+            "title": "Feedback Önleme Sistemi",
+            "description": "Rahatsız edici ıslık ve geri bildirim seslerini otomatik olarak engeller, konforlu bir kullanım sunar."
+          }
+        ]
+      },
+      {
+        "id": 305,
+        "name": "Vista B-R",
+        "description": "Doğrudan Bluetooth bağlantısına sahip, şarj edilebilir lityum iyon teknolojisi ile tüm gün boyunca kesintisiz duyum sağlayan işitme cihazı.",
+        "image": "/assets/Vista-B-R.webp",
+        "features": [
+          {
+            "title": "Şarj Edilebilir Lityum İyon Pil",
+            "description": "Güvenilir lityum iyon teknolojisi sayesinde, tüm gün boyunca kesintisiz duyum sağlar ve hızlı şarj imkanı sunar."
+          },
+          {
+            "title": "Otomatik Açılma/Kapanma",
+            "description": "Şarj cihazından çıkarıldığında otomatik olarak açılır ve şarj cihazına takıldığında otomatik olarak kapanır, böylece kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Hızlı Şarj Özelliği",
+            "description": "Kısa sürede şarj olarak, uzun süreli kullanım imkanı sağlar."
+          },
+          {
+            "title": "Kullanım Kolaylığı",
+            "description": "Otomatik açılma ve kapanma özellikleriyle, kullanıcı dostu bir deneyim sunar."
+          }
+        ]
+      },
+      {
+        "id": 306,
+        "name": "Vista V-R",
+        "description": "Doğrudan Bluetooth bağlantısına sahip, şarj edilebilir lityum iyon teknolojisi ile tüm gün boyunca kesintisiz duyum sağlayan işitme cihazı.",
+        "image": "/assets/Vista-V-R.webp",
+        "features": [
+          {
+            "title": "Şarj Edilebilir Lityum İyon Pil",
+            "description": "Güvenilir lityum iyon teknolojisi sayesinde, tüm gün boyunca kesintisiz duyum sağlar ve hızlı şarj imkanı sunar."
+          },
+          {
+            "title": "Otomatik Açılma/Kapanma",
+            "description": "Şarj cihazından çıkarıldığında otomatik olarak açılır ve şarj cihazına takıldığında otomatik olarak kapanır, böylece kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Hızlı Şarj Özelliği",
+            "description": "Kısa sürede şarj olarak, uzun süreli kullanım imkanı sağlar."
+          },
+          {
+            "title": "Kullanım Kolaylığı",
+            "description": "Otomatik açılma ve kapanma özellikleriyle, kullanıcı dostu bir deneyim sunar."
+          }
+        ]
+      },
+      {
+        "id": 307,
+        "name": "Vista B-UP",
+        "description": "675 numara tek kullanımlık pil ile çalışan, doğrudan bağlantı özellikli Ultra Power BTE işitme cihazı.",
+        "image": "/assets/Vista-B-UP.webp",
+        "features": [
+          {
+            "title": "Ultra Güçlü Ses Amplifikasyonu",
+            "description": "İleri ve çok ileri derecede işitme kaybı olan kullanıcılar için yüksek kazançlı ses amplifikasyonu sağlar."
+          },
+          {
+            "title": "Doğrudan Bağlantı Özelliği",
+            "description": "Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "675 Numara Tek Kullanımlık Pil",
+            "description": "Uzun ömürlü 675 numara pillerle çalışır, böylece pil değiştirme sıklığını azaltır."
+          },
+          {
+            "title": "Dayanıklı ve Ergonomik Tasarım",
+            "description": "Sağlam yapısı ve ergonomik tasarımıyla uzun süreli kullanımda konfor sağlar."
+          },
+          {
+            "title": "Gelişmiş Gürültü Azaltma Teknolojisi",
+            "description": "Arka plan gürültüsünü azaltarak, konuşmaları daha net ve anlaşılır hale getirir."
+          },
+          {
+            "title": "Uyarlanabilir Yönlü Mikrofonlar",
+            "description": "Sesin geldiği yöne odaklanarak, özellikle kalabalık ortamlarda daha iyi bir dinleme deneyimi sağlar."
+          }
+        ]
+      },
+      {
+        "id": 308,
+        "name": "Vista B-PR",
+        "description": "Doğrudan Bluetooth bağlantısına sahip, şarj edilebilir lityum iyon teknolojisi ile tüm gün boyunca kesintisiz duyum sağlayan işitme cihazı.",
+        "image": "/assets/Vista-B-PR.webp",
+        "features": [
+          {
+            "title": "Şarj Edilebilir Lityum İyon Pil",
+            "description": "Güvenilir lityum iyon teknolojisi sayesinde, tüm gün boyunca kesintisiz duyum sağlar ve hızlı şarj imkanı sunar."
+          },
+          {
+            "title": "Otomatik Açılma/Kapanma",
+            "description": "Şarj cihazından çıkarıldığında otomatik olarak açılır ve şarj cihazına takıldığında otomatik olarak kapanır, böylece kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Doğrudan Bluetooth Bağlantısı",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Hızlı Şarj Özelliği",
+            "description": "Kısa sürede şarj olarak, uzun süreli kullanım imkanı sağlar."
+          },
+          {
+            "title": "Kullanım Kolaylığı",
+            "description": "Otomatik açılma ve kapanma özellikleriyle, kullanıcı dostu bir deneyim sunar."
+          }
+        ]
+      },
+      {
+        "id": 309,
+        "name": "Vista B-10",
+        "description": "Bağlantı özelliği bulunmayan, telecoil desteğiyle donatılmış en kompakt kanal içi işitme cihazı.",
+        "image": "/assets/Vista-B-10.webp",
+        "features": [
+          {
+            "title": "Telecoil Özelliği",
+            "description": "Telefon görüşmeleri ve uyumlu ses sistemleriyle daha net bir işitme deneyimi sağlar."
+          },
+          {
+            "title": "Kompakt Tasarım",
+            "description": "Küçük boyutu sayesinde kulakta neredeyse görünmez, estetik bir kullanım sunar."
+          },
+          {
+            "title": "Kanal İçi Yerleşim",
+            "description": "Doğrudan kulak kanalına yerleşerek daha doğal bir ses deneyimi sağlar."
+          },
+          {
+            "title": "Manuel Program Düğmesi",
+            "description": "Farklı dinleme ortamlarına hızlıca uyum sağlamak için programlar arasında kolay geçiş imkanı sunar."
+          },
+          {
+            "title": "Gelişmiş Gürültü Azaltma",
+            "description": "Arka plan gürültüsünü azaltarak, konuşmaları daha net ve anlaşılır hale getirir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brandId": 4,
+    "products": [
+      {
+        "id": 401,
+        "name": "Oticon Play PX miniRITE R",
+        "description": "Çocuklar için tasarlanmış, şarj edilebilir lityum-iyon pile sahip, yapay zeka destekli ve gelişmiş bağlantı özellikleri sunan kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Play-PX-miniRITE-R.webp",
+        "features": [
+          {
+            "title": "Derin Sinir Ağı (DNN) Destekli Ses İşleme",
+            "description": "12 milyon gerçek yaşam ses sahnesiyle eğitilmiş DNN teknolojisi sayesinde, sesleri beynin doğal işleme biçimine yakın bir şekilde analiz eder ve daha doğal bir işitme deneyimi sunar."
+          },
+          {
+            "title": "Şarj Edilebilir Lityum-İyon Pil",
+            "description": "Hızlı şarj özelliği ile tam gün kullanım imkanı sağlar; 3 saatlik şarj ile tüm gün, 30 dakikalık hızlı şarj ile 6 saatlik kullanım sunar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "iPhone®, iPad®, iPod touch® ve belirli Android™ cihazlarla doğrudan ses akışı sağlar; ayrıca ConnectClip ile eller serbest telefon görüşmeleri ve TV Adapter ile televizyon ses akışı imkanı sunar."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile toza ve suya dayanıklıdır; kurcalamaya karşı dayanıklı pil bölmesi ve biyouyumlu, alerji yapmayan malzemelerle üretilmiştir."
+          },
+          {
+            "title": "360° Ses Tarama",
+            "description": "Saniyede 500 kez tam ses sahnesini tarayarak, sesleri hassas bir şekilde analiz eder ve dengeler, böylece çocukların her ortamda daha iyi duymasını sağlar."
+          },
+          {
+            "title": "Çeşitli Renk Seçenekleri",
+            "description": "12 farklı renk seçeneği ile çocukların tercihlerine ve tarzlarına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Oticon Play PX miniRITE T",
+        "description": "Çocuklar için tasarlanmış, tek kullanımlık 312 numara pille çalışan, telecoil özellikli ve gelişmiş bağlantı seçeneklerine sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Play-PX-miniRITE-T.webp",
+        "features": [
+          {
+            "title": "Derin Sinir Ağı (DNN) Destekli Ses İşleme",
+            "description": "12 milyon gerçek yaşam ses sahnesiyle eğitilmiş DNN teknolojisi sayesinde, sesleri beynin doğal işleme biçimine yakın bir şekilde analiz eder ve daha doğal bir işitme deneyimi sunar."
+          },
+          {
+            "title": "Telecoil Özelliği",
+            "description": "Tiyatro, sinema gibi loop sistemi bulunan kamuya açık alanlarda gelişmiş dinleme deneyimi sağlar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "iPhone®, iPad®, iPod touch® ve belirli Android™ cihazlarla doğrudan ses akışı sağlar; ayrıca ConnectClip ile eller serbest telefon görüşmeleri ve TV Adapter ile televizyon ses akışı imkanı sunar."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile toza ve suya dayanıklıdır; kurcalamaya karşı dayanıklı pil bölmesi ve biyouyumlu, alerji yapmayan malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumunu kolayca izlemek için LED ışık göstergesi bulunur, bu da ebeveynler ve bakıcılar için kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Çeşitli Renk Seçenekleri",
+            "description": "12 farklı renk seçeneği ile çocukların tercihlerine ve tarzlarına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 403,
+        "name": "Oticon Play PX miniBTE R",
+        "description": "Çocuklar için tasarlanmış, şarj edilebilir lityum-iyon pile sahip, telecoil özellikli ve gelişmiş bağlantı seçenekleri sunan kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Play-PX-miniBTE-R.webp",
+        "features": [
+          {
+            "title": "Derin Sinir Ağı (DNN) Destekli Ses İşleme",
+            "description": "12 milyon gerçek yaşam ses sahnesiyle eğitilmiş DNN teknolojisi sayesinde, sesleri beynin doğal işleme biçimine yakın bir şekilde analiz eder ve daha doğal bir işitme deneyimi sunar."
+          },
+          {
+            "title": "Şarj Edilebilir Lityum-İyon Pil",
+            "description": "Güvenilir lityum-iyon pil teknolojisi ile tam gün kullanım sağlar ve hızlı şarj imkanı sunar."
+          },
+          {
+            "title": "Telecoil Özelliği",
+            "description": "Tiyatro, sinema gibi loop sistemi bulunan kamuya açık alanlarda gelişmiş dinleme deneyimi sağlar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "iPhone®, iPad®, iPod touch® ve belirli Android™ cihazlarla doğrudan ses akışı sağlar; ayrıca ConnectClip ile eller serbest telefon görüşmeleri ve TV Adapter ile televizyon ses akışı imkanı sunar."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile toza ve suya dayanıklıdır; kurcalamaya karşı dayanıklı pil bölmesi ve biyouyumlu, alerji yapmayan malzemelerle üretilmiştir."
+          },
+          {
+            "title": "Tekli Dokunmatik Düğme",
+            "description": "Ses seviyesi kontrolü ve program ayarlama işlemlerini kolaylaştıran kullanıcı dostu bir arayüz sunar."
+          }
+        ]
+      },
+      {
+        "id": 404,
+        "name": "Oticon Play PX miniBTE T",
+        "description": "Çocuklar için tasarlanmış, 312 numara tek kullanımlık pille çalışan, telecoil özellikli ve gelişmiş bağlantı seçeneklerine sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Play-PX-miniBTE-T.webp",
+        "features": [
+          {
+            "title": "Derin Sinir Ağı (DNN) Destekli Ses İşleme",
+            "description": "12 milyon gerçek yaşam ses sahnesiyle eğitilmiş DNN teknolojisi sayesinde, sesleri beynin doğal işleme biçimine yakın bir şekilde analiz eder ve daha doğal bir işitme deneyimi sunar."
+          },
+          {
+            "title": "Telecoil Özelliği",
+            "description": "Tiyatro, sinema gibi halka açık alanlarda, indüksiyon döngü sistemleriyle uyumlu çalışarak gelişmiş dinleme deneyimi sağlar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "iPhone®, iPad®, iPod touch® ve belirli Android™ cihazlarla doğrudan ses akışı sağlar; ayrıca ConnectClip ile eller serbest telefon görüşmeleri ve TV Adaptörü ile televizyon ses akışı imkanı sunar."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile toza ve suya dayanıklıdır; kurcalamaya karşı dayanıklı pil bölmesi ve biyouyumlu, alerji yapmayan malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumunu kolayca izlemek için LED ışık göstergesi bulunur, bu da ebeveynler ve bakıcılar için kullanım kolaylığı sağlar."
+          },
+          {
+            "title": "Çeşitli Renk Seçenekleri",
+            "description": "12 farklı renk seçeneği ile çocukların tercihlerine ve tarzlarına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 405,
+        "name": "Oticon Opn Play miniRITE",
+        "description": "Çocuklar için tasarlanmış, 312 numara tek kullanımlık pille çalışan, gelişmiş ses işleme ve bağlantı özelliklerine sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Opn-Play-miniRITE.webp",
+        "features": [
+          {
+            "title": "OpenSound Navigator™ Teknolojisi",
+            "description": "360° ses erişimi sağlayarak, çocuğunuzun gürültülü ortamlarda bile konuşmaları daha iyi anlamasına yardımcı olur."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Seçenekleri",
+            "description": "Modern akıllı telefonlar ve tabletlerle uyumlu çalışarak, müzik, video ve telefon görüşmelerini doğrudan işitme cihazına aktarır."
+          },
+          {
+            "title": "Dayanıklı ve Çocuk Dostu Tasarım",
+            "description": "IP68 sertifikası ile suya ve toza dayanıklıdır; ayrıca kurcalamaya karşı dayanıklı pil kapağı ve hipoalerjenik malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumu hakkında ebeveynlere ve öğretmenlere görsel geri bildirim sağlar."
+          },
+          {
+            "title": "Çeşitli Renk ve Kişiselleştirme Seçenekleri",
+            "description": "12 farklı renk seçeneği ve eğlenceli çıkartmalarla çocuğunuzun tarzına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 406,
+        "name": "Oticon Opn Play miniRITE R",
+        "description": "Çocuklar için tasarlanmış, şarj edilebilir lityum-iyon pile sahip, gelişmiş ses işleme ve bağlantı özellikleri sunan kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Opn-Play-miniRITE-R.webp",
+        "features": [
+          {
+            "title": "OpenSound Navigator™ Teknolojisi",
+            "description": "360° ses erişimi sağlayarak, çocuğunuzun gürültülü ortamlarda bile konuşmaları daha iyi anlamasına yardımcı olur."
+          },
+          {
+            "title": "Şarj Edilebilir Lityum-İyon Pil",
+            "description": "Hızlı ve kolay şarj özelliği ile tam gün kullanım imkanı sunar; 3 saatlik şarj ile tüm gün, 30 dakikalık hızlı şarj ile 6 saatlik kullanım sağlar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Seçenekleri",
+            "description": "Entegre Bluetooth teknolojisi ile akıllı telefonlar ve tabletlerle uyumlu çalışarak, müzik, video ve telefon görüşmelerini doğrudan işitme cihazına aktarır."
+          },
+          {
+            "title": "Dayanıklı ve Çocuk Dostu Tasarım",
+            "description": "IP68 sertifikası ile suya ve toza dayanıklıdır; ayrıca kurcalamaya karşı dayanıklı pil kapağı ve hipoalerjenik malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumu hakkında ebeveynlere ve öğretmenlere görsel geri bildirim sağlar."
+          },
+          {
+            "title": "Çeşitli Renk ve Kişiselleştirme Seçenekleri",
+            "description": "12 farklı renk seçeneği ve eğlenceli çıkartmalarla çocuğunuzun tarzına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 407,
+        "name": "Oticon Opn Play BTE Plus Power",
+        "description": "Çocuklar için tasarlanmış, güçlü ses amplifikasyonu ve gelişmiş bağlantı özelliklerine sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Opn-Play-BTE-Plus-Power.webp",
+        "features": [
+          {
+            "title": "OpenSound Navigator™ Teknolojisi",
+            "description": "360° ses erişimi sağlayarak, çocuğunuzun gürültülü ortamlarda bile konuşmaları daha iyi anlamasına yardımcı olur."
+          },
+          {
+            "title": "Güçlü Ses Amplifikasyonu",
+            "description": "Orta ila çok ileri derecede işitme kaybı olan çocuklar için yüksek kazançlı ses amplifikasyonu sağlar."
+          },
+          {
+            "title": "Entegre Bluetooth Teknolojisi",
+            "description": "Akıllı telefonlar ve diğer Bluetooth özellikli cihazlarla doğrudan bağlantı imkanı sunar, böylece telefon görüşmeleri ve medya akışı kolaylaşır."
+          },
+          {
+            "title": "Dayanıklı ve Çocuk Dostu Tasarım",
+            "description": "IP68 sertifikası ile suya ve toza dayanıklıdır; ayrıca kurcalamaya karşı dayanıklı pil kapağı ve hipoalerjenik malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumu hakkında ebeveynlere ve öğretmenlere görsel geri bildirim sağlar."
+          },
+          {
+            "title": "Çeşitli Renk ve Kişiselleştirme Seçenekleri",
+            "description": "12 farklı renk seçeneği ve eğlenceli çıkartmalarla çocuğunuzun tarzına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 408,
+        "name": "Oticon Xceed Play BTE Super Power",
+        "description": "Çocuklar için tasarlanmış, ileri ve çok ileri derecede işitme kaybı yaşayan kullanıcılar için güçlü ve yenilikçi özelliklere sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Xceed-Play-BTE-SP.webp",
+        "features": [
+          {
+            "title": "OpenSound Navigator™ Teknolojisi",
+            "description": "360° ses erişimi sağlayarak, çocuğunuzun gürültülü ortamlarda bile konuşmaları daha iyi anlamasına yardımcı olur."
+          },
+          {
+            "title": "OpenSound Optimizer™",
+            "description": "Geri bildirimleri (feedback) oluşmadan engelleyerek, daha kararlı ve net bir ses amplifikasyonu sağlar."
+          },
+          {
+            "title": "Yüksek Kazanç ve Çıkış Gücü",
+            "description": "146 dB SPL maksimum çıkış ve 87 dB tam kazanç değeri ile ileri derecede işitme kaybı olan çocukların ihtiyaçlarını karşılar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "2.4 GHz Bluetooth® düşük enerji teknolojisi ile modern akıllı telefonlara ve çeşitli aksesuarlara kablosuz olarak bağlanabilir, stereo ses akışı ve eller serbest telefon görüşmeleri yapabilirsiniz."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile suya ve toza dayanıklıdır; kurcalamaya karşı dayanıklı pil kapağı ve hipoalerjenik malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumu hakkında ebeveynlere ve öğretmenlere görsel geri bildirim sağlar."
+          },
+          {
+            "title": "Çeşitli Renk ve Kişiselleştirme Seçenekleri",
+            "description": "12 farklı renk seçeneği ve eğlenceli çıkartmalarla çocuğunuzun tarzına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 409,
+        "name": "Oticon Xceed Play BTE Ultra Power",
+        "description": "İleri ve çok ileri derecede işitme kaybı olan çocuklar için tasarlanmış, güçlü ses amplifikasyonu ve gelişmiş bağlantı özelliklerine sahip kulak arkası işitme cihazı.",
+        "image": "/assets/Oticon-Xceed-Play-BTE-UP.webp",
+        "features": [
+          {
+            "title": "OpenSound Navigator™ Teknolojisi",
+            "description": "360° ses erişimi sağlayarak, çocuğunuzun gürültülü ortamlarda bile konuşmaları daha iyi anlamasına yardımcı olur."
+          },
+          {
+            "title": "OpenSound Optimizer™",
+            "description": "Geri bildirimleri (feedback) oluşmadan engelleyerek, daha kararlı ve net bir ses amplifikasyonu sağlar."
+          },
+          {
+            "title": "Yüksek Kazanç ve Çıkış Gücü",
+            "description": "146 dB SPL maksimum çıkış ve 87 dB tam kazanç değeri ile ileri derecede işitme kaybı olan çocukların ihtiyaçlarını karşılar."
+          },
+          {
+            "title": "Gelişmiş Bağlantı Özellikleri",
+            "description": "2.4 GHz Bluetooth® düşük enerji teknolojisi ile modern akıllı telefonlara ve çeşitli aksesuarlara kablosuz olarak bağlanabilir, stereo ses akışı ve eller serbest telefon görüşmeleri yapabilirsiniz."
+          },
+          {
+            "title": "Çocuklara Özel Dayanıklı Tasarım",
+            "description": "IP68 sertifikası ile suya ve toza dayanıklıdır; kurcalamaya karşı dayanıklı pil kapağı ve hipoalerjenik malzemelerle üretilmiştir."
+          },
+          {
+            "title": "LED Işık Göstergesi",
+            "description": "Cihazın durumu hakkında ebeveynlere ve öğretmenlere görsel geri bildirim sağlar."
+          },
+          {
+            "title": "Çeşitli Renk ve Kişiselleştirme Seçenekleri",
+            "description": "12 farklı renk seçeneği ve eğlenceli çıkartmalarla çocuğunuzun tarzına uygun kişiselleştirme imkanı sunar."
+          }
+        ]
+      },
+      {
+        "id": 410,
+        "name": "Philips HearLink BTE SP",
+        "description": "İleri ve çok ileri derece işitme kaybı yaşayan kullanıcılar için tasarlanmış, güçlü ve gelişmiş özelliklere sahip kulak arkası işitme cihazı.",
+        "image": "/assets/sub-product6.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofonlu gürültü tahmin özelliği sayesinde, en gürültülü sosyal ortamlarda bile konuşma seslerini daha iyi duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses sinyallerini temizledikten sonra, detayların duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini daha iyi korur."
+          },
+          {
+            "title": "SoundMap Geri Bildirim Azaltıcı",
+            "description": "Geri bildirim dedektörü ile donatılmıştır, bu sayede neredeyse ıslıksız bir işitme deneyimi sunar."
+          },
+          {
+            "title": "2,4 GHz Kablosuz Teknolojisi",
+            "description": "iPhone®, iPod®, iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar, böylece ses akışı ve eller serbest telefon görüşmeleri yapabilirsiniz."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ses seviyesi ayarı, gürültü yönetimi ve program değişiklikleri diğer cihaza otomatik olarak uygulanır."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Daha yüksek giriş sinyali aralığını işleyerek, yüksek seslerin daha net olmasını sağlar."
+          },
+          {
+            "title": "Telecoil Özelliği",
+            "description": "Telecoil ile donatılmıştır, bu sayede halka açık alanlardaki indüksiyon döngü sistemleriyle uyumlu çalışarak gelişmiş dinleme deneyimi sunar."
+          }
+        ]
+      },
+      {
+        "id": 411,
+        "name": "Philips HearLink BTE UP",
+        "description": "İleri ve çok ileri derecede işitme kaybı olan kullanıcılar için tasarlanmış, sağlam ve yüksek performanslı kulak arkası işitme cihazı.",
+        "image": "/assets/sub-product7.webp",
+        "features": [
+          {
+            "title": "SoundMap Gürültü Kontrolü",
+            "description": "Çift mikrofonlu gürültü tahmin özelliği sayesinde, en gürültülü sosyal ortamlarda bile konuşma seslerini daha iyi duymanızı sağlar."
+          },
+          {
+            "title": "SoundMap Amplifikasyon",
+            "description": "Ses sinyallerini temizledikten sonra, detayların duyulabilirliğini artırır ve gürültülü ortamlarda konuşma seslerini daha iyi korur."
+          },
+          {
+            "title": "SoundMap Geri Bildirim Azaltıcı",
+            "description": "Geri bildirim dedektörü ile donatılmıştır, bu sayede neredeyse ıslıksız bir işitme deneyimi sunar."
+          },
+          {
+            "title": "2,4 GHz Kablosuz Teknolojisi",
+            "description": "iPhone®, iPod®, iPad® gibi modern cihazlara doğrudan kablosuz bağlantı sağlar, böylece ses akışı ve eller serbest telefon görüşmeleri yapabilirsiniz."
+          },
+          {
+            "title": "Binoral Koordinasyon",
+            "description": "Bir işitme cihazında yapılan ses seviyesi ayarı, gürültü yönetimi ve program değişiklikleri diğer cihaza otomatik olarak uygulanır."
+          },
+          {
+            "title": "Genişletilmiş Dinamik Aralık",
+            "description": "Daha yüksek giriş sinyali aralığını işleyerek, yüksek seslerin daha net olmasını sağlar."
+          },
+          {
+            "title": "Düşük Frekans Geliştirme",
+            "description": "TV'ler ve cep telefonları gibi kablosuz cihazlardan gelen düşük frekanslı sinyalleri artırarak daha iyi ses kalitesi sunar."
+          }
+        ]
+      }
+    ]
+  }
+]

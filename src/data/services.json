@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Çınlama Testi",
+    "path": "/services/cinlama-testi",
+    "icon": "HearingDisabled"
+  },
+  {
+    "name": "İşitme Testi",
+    "path": "/services/isitme-testi",
+    "icon": "Headphones"
+  },
+  {
+    "name": "Teknik Servis",
+    "path": "/services/teknik-servis",
+    "icon": "Build"
+  },
+  {
+    "name": "Bakım ve Temizlik",
+    "path": "/services/bakim-ve-temizlik",
+    "icon": "CleaningServices"
+  },
+
+  {
+    "name": "Kullanıcı Eğitimi",
+    "path": "/services/kullanici-egitimi",
+    "icon": "School"
+  },
+  {
+    "name": "Pil Satışı",
+    "path": "/services/pil-satisi",
+    "icon": "Battery0Bar"
+  },
+  {
+    "name": "Filtre Satışı ve Değişimi",
+    "path": "/services/filtre-satisi-ve-degisimi",
+    "icon": "FilterAlt"
+  },
+  {
+    "name": "SGK Anlaşması",
+    "path": "/services/sgk-anlasmasi",
+    "icon": "VerifiedUser"
+  },
+  {
+    "name": "Hortum Değişimi",
+    "path": "/services/hortum-degisimi",
+    "icon": "Earbuds"
+  },
+  {
+    "name": "Kulak Kalıbı",
+    "path": "/services/kulak-kalibi",
+    "icon": "Hearing"
+  }
+]

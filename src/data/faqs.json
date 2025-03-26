@@ -1,0 +1,30 @@
+[
+  {
+    "question": "İşitme cihazları nasıl çalışır?",
+    "answer": "İşitme cihazları, ses dalgalarını algılayıp güçlendirerek kulağınıza ileten elektronik cihazlardır."
+  },
+  {
+    "question": "İşitme cihazlarının ömrü ne kadardır?",
+    "answer": "Genellikle 5-7 yıl arası dayanır, ancak bakımına bağlı olarak değişebilir."
+  },
+  {
+    "question": "İşitme cihazlarını nasıl temizleyebilirim?",
+    "answer": "Cihazınızı yumuşak bir bezle silerek ve üreticinin önerdiği temizleme araçlarını kullanarak temizleyebilirsiniz."
+  },
+  {
+    "question": "İşitme cihazları suya dayanıklı mı?",
+    "answer": "Çoğu işitme cihazı suya dayanıklı değildir, ancak suya dayanıklı modeller mevcuttur."
+  },
+  {
+    "question": "İşitme cihazlarını kimler kullanabilir?",
+    "answer": "İşitme kaybı yaşayan herkes işitme cihazı kullanabilir. Uygun modeli belirlemek için bir uzmana danışmalısınız."
+  },
+  {
+    "question": "İşitme cihazlarını nereden satın alabilirim?",
+    "answer": "İşitme cihazlarını yetkili satıcılardan veya işitme uzmanlarından satın alabilirsiniz."
+  },
+  {
+    "question": "Çocuklarda işitme kaybı olabilir mi?",
+    "answer": "Evet çocuklarda nadiren de olsa işitme kaybı yaşanabilir ve cihaza ihtiyaç duyulabilir."
+  }
+]
