@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.xn--gksuiitmepozcu-vpb89n.com/sitemap.xml
