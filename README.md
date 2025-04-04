@@ -1,8 +1,34 @@
-# React + Vite
+# Göksu İşitme Bozukluğu Çözücü
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, bir müşterim için React.js ve Material UI kullanılarak geliştirilen, kullanıcı dostu ve özgün bir web uygulamasıdır.  
+Domain, hosting, tasarım ve geliştirme süreci tamamen tarafımdan yürütülmüştür.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Canlı Demo
+
+🔗 [www.göksuişitmepozcu.com](https://www.xn--gksuiitmepozcu-vpb89n.com/)
+
+> Not: Domain Türkçe karakter içerdiğinden teknik olarak Punycode formatı kullanılmıştır.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+- React.js
+- Material UI
+- Vite.js (Frontend Build Tool)
+- Vercel (Deployment)
+- GoDaddy (Domain)
+
+---
+
+## 📦 Kurulum ve Geliştirme
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+```bash
+git clone https://github.com/kullaniciadi/proje-ismi.git
+cd proje-ismi
+npm install
+npm run dev
