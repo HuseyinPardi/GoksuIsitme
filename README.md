@@ -1,4 +1,4 @@
-# Göksu İşitme Bozukluğu Çözücü
+# Göksu İşitme Cihazları
 
 Bu proje, bir müşterim için React.js ve Material UI kullanılarak geliştirilen, kullanıcı dostu ve özgün bir web uygulamasıdır.  
 Domain, hosting, tasarım ve geliştirme süreci tamamen tarafımdan yürütülmüştür.
