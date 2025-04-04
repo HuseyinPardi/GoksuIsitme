@@ -21,7 +21,9 @@ Domain, hosting, tasarım ve geliştirme süreci tamamen tarafımdan yürütülm
 - Vercel (Deployment)
 - GoDaddy (Domain)
 
----
+## 📷 Ekran Görüntüsü
+---![screenshot](https://github.com/user-attachments/assets/88cb4e70-a3e2-4e24-be93-348681d4f15c)
+
 
 ## 📦 Kurulum ve Geliştirme
 
