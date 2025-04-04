@@ -30,7 +30,7 @@ Domain, hosting, tasarım ve geliştirme süreci tamamen tarafımdan yürütülm
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
-git clone https://github.com/kullaniciadi/proje-ismi.git
-cd proje-ismi
+git clone https://github.com/HuseyinPardi/GoksuIsitme.git
+cd GoksuIsitme
 npm install
 npm run dev
